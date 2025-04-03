@@ -20,22 +20,35 @@ Un programme de mentorat est un **dispositif structuré** où des personnes exp�
 
 - **Rôle du Mentoré (Mentee)** : Le mentoré est un apprenant qui cherche à progresser grâce à l’accompagnement d’un mentor. Il doit être proactif et engagé dans son apprentissage.
 
-
 - **Lien entre Mentor et Mentoré** : Le mentor et le mentoré sont dans une relation d'échange mutuel, et collaborative où le mentoré apprend de l'expérience du mentor, mais le mentor peut aussi apprendre et grandir grâce aux retours et à la perspective du mentoré tout en garantissant un suivi continu.
+
+- **Avantages pour le Mentor et le Mentoré** :
+
+| **Avantages**       | **Pour le Mentor** | **Pour le Mentoré** |
+|---------------------|--------------------|---------------------|
+| **Développement des compétences** | Améliore ses capacités pédagogiques et de communication. | Acquiert des compétences techniques et pratiques accélérées. |
+| **Élargissement du réseau** | Se connecte avec d'autres professionnels et développeurs. | Intègre une communauté d’entraide et de networking. |
+| **Reconnaissance et valorisation** | Obtient un certificat de mentorat, valorisable sur LinkedIn. | Bénéficie d’un accompagnement personnalisé et de retours constructifs. |
+| **Expérience et leadership** | Renforce son expérience en encadrement et gestion d’équipe. | Gagne en autonomie et confiance dans son apprentissage. |
+| **Accès à des ressources exclusives** | Accède à du contenu premium et aux outils de mentorat de SainMentor. | Bénéficie de supports pédagogiques et de projets pratiques. |
+| **Opportunités professionnelles** | Améliore son CV et attire des opportunités grâce à son engagement. | Se prépare aux entretiens techniques et construit un portfolio solide. |
+| **Flexibilité et engagement mesuré** | Peut s’investir selon sa disponibilité (sessions ponctuelles ou suivi long terme). | Apprend à son rythme avec un accompagnement adapté. |
+| **Satisfaction personnelle** | Partage son savoir et aide à la réussite d’un futur développeur. | Se sent soutenu et motivé dans son parcours d’apprentissage. |
+
 
 ## 3. Objectifs du programme de mentorat grace à SainMentor:
 
 - Développer un réseau d’entraide entre mentors et mentoré : 
 
     - Favoriser le partage de connaissances et d’expériences.
-    - Permettre  aux anciens étudiants de partager les offres d’emploi en interne de leurs entreprises pour les nouveaux étudiants de Simplon 
+    - Permettre  aux anciens étudiants de partager les offres d’emploi en interne de leurs entreprises pour les nouveaux étudiants de Simplon.
     - Mettre en relation les mentorés avec des professionnels du secteur et des opportunités d’emploi.
-    - Création d’événements / Ateliers 
+    - Création d’événements / Ateliers. 
     - Soirée d’intégration des nouveaux étudiants avec des anciens étudiants.
     - Soirée présentation des projets.
     - Atelier CV.
     - Meeting avec d’anciens étudiants pour parler de divers sujets.
-    - Réunion d’anciens élèves 
+    - Réunion d’anciens élèves. 
     - Donner accès à une communauté de professionnels et d’experts du secteur.
 
 
