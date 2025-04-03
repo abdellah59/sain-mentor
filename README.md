@@ -52,11 +52,27 @@ Un programme de mentorat est un **dispositif structuré** où des personnes exp�
     - Donner accès à une communauté de professionnels et d’experts du secteur.
 
 
-## 4. Comment attirer des mentor pour notre programme ?
+## 4. Comment Promouvroir la plateforme SainMentor:
+
+### 4.1 Exploiter les Canaux de Communication
+
+Pour toucher un large public, il est essentiel d'utiliser plusieurs canaux de communication :
+ 
+**Communication Interne (au sein de Simplon)** 
+
+- Présenter SainMentor dans les sessions de formation (lors de l’accueil des nouveaux apprenants).
+- Publier des annonces sur Slack, Discord, ou tout autre outil interne utilisé par Simplon.
+- Inciter les anciens élèves à revenir en tant que mentors (campagne emailing).
+- Organiser un événement de lancement en ligne ou en présentiel pour promouvoir la plateforme.
+
+
+
+
+## 5. Comment attirer des mentor pour notre programme ?
 
 Pour recruter des mentors qualifiés et motivés, il faut une stratégie efficace qui valorise leur engagement et leur apporte des bénéfices concrets. Voici les étapes clés :
 
-### 4.1. Définir un Positionnement Attractif 
+### 5.1. Définir un Positionnement Attractif 
 
 - Mettre en avant les avantages du mentoring; partage de connaissance, augmentation de son réseau, apprendre le management et développer des Soft skill, apprendre une nouvelle façon de travailler.
 - L’enrichissement personnel : Développer leurs compétences en pédagogie et en leadership et mettre en avnat sa **transmission du savoir**.
@@ -64,7 +80,7 @@ Pour recruter des mentors qualifiés et motivés, il faut une stratégie efficac
 - Formations complémentaires certifiées pour les mentors.
 
 
-### 4.2. Identifier et Cibler les Profils de Mentors
+### 5.2. Identifier et Cibler les Profils de Mentors
 
 Les mentors potentiels peuvent être :
 
@@ -76,7 +92,7 @@ Les mentors potentiels peuvent être :
 
 - Des enseignants ou formateurs ayant déjà une approche pédagogique.
 
-### 4.3. Fidéliser et Motiver les Mentors
+### 5.3. Fidéliser et Motiver les Mentors
 
 Une fois recrutés, il faut les garder motivés et engagés :
 
