@@ -29,4 +29,10 @@ Lien entre Mentor et Mentoré : Le mentor et le mentoré sont dans une relation 
     - Réunion d’anciens élèves 
 
 
+## 4. Comment attirer les mentors ?
+
+- Mettre en avant les avantages du mentoring; partage de connaissance, augmentation de son réseau, apprendre le management et développer des Soft skill, apprendre une nouvelle façon de travailler ou vision 
+- Création de badges mini mentor, mentor, super mentor ou de certificat. 
+- Formations complémentaires certifiées pour les mentors.
+
 
