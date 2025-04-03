@@ -25,15 +25,18 @@ Un programme de mentorat est un **dispositif structuré** où des personnes exp�
 
 ## 3. Objectifs du programme de mentorat grace à SainMentor:
 
-- Permettre  aux anciens étudiants de partager les offres d’emploi en interne de leurs entreprises pour les nouveaux étudiants de Simplon il pourrait entrer en contact pour discuter et échanger sur l’entreprise et le poste. 
+- Développer un réseau d’entraide entre mentors et mentoré : 
 
-- Création d’événements / Ateliers 
-
+    - Favoriser le partage de connaissances et d’expériences.
+    - Permettre  aux anciens étudiants de partager les offres d’emploi en interne de leurs entreprises pour les nouveaux étudiants de Simplon 
+    - Mettre en relation les mentorés avec des professionnels du secteur et des opportunités d’emploi.
+    - Création d’événements / Ateliers 
     - Soirée d’intégration des nouveaux étudiants avec des anciens étudiants.
     - Soirée présentation des projets.
     - Atelier CV.
     - Meeting avec d’anciens étudiants pour parler de divers sujets.
     - Réunion d’anciens élèves 
+    - Donner accès à une communauté de professionnels et d’experts du secteur.
 
 
 ## 4. Comment attirer des mentor pour notre programme ?
