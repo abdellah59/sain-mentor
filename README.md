@@ -23,7 +23,7 @@ Un programme de mentorat est un **dispositif structuré** où des personnes exp�
 
 - **Lien entre Mentor et Mentoré** : Le mentor et le mentoré sont dans une relation d'échange mutuel, et collaborative où le mentoré apprend de l'expérience du mentor, mais le mentor peut aussi apprendre et grandir grâce aux retours et à la perspective du mentoré tout en garantissant un suivi continu.
 
-## 3. Objectifs du programme de mentorat:
+## 3. Objectifs du programme de mentorat grace à SainMentor:
 
 - Permettre  aux anciens étudiants de partager les offres d’emploi en interne de leurs entreprises pour les nouveaux étudiants de Simplon il pourrait entrer en contact pour discuter et échanger sur l’entreprise et le poste. 
 
@@ -36,10 +36,27 @@ Un programme de mentorat est un **dispositif structuré** où des personnes exp�
     - Réunion d’anciens élèves 
 
 
-## 4. Comment attirer les mentors ?
+## 4. Comment attirer des mentor pour notre programme ?
 
-- Mettre en avant les avantages du mentoring; partage de connaissance, augmentation de son réseau, apprendre le management et développer des Soft skill, apprendre une nouvelle façon de travailler ou vision 
+Pour recruter des mentors qualifiés et motivés, il faut une stratégie efficace qui valorise leur engagement et leur apporte des bénéfices concrets. Voici les étapes clés :
+
+### 4.1. Définir un Positionnement Attractif 
+
+- Mettre en avant les avantages du mentoring; partage de connaissance, augmentation de son réseau, apprendre le management et développer des Soft skill, apprendre une nouvelle façon de travailler.
+- L’enrichissement personnel : Développer leurs compétences en pédagogie et en leadership et mettre en avnat sa **transmission du savoir**.
 - Création de badges mini mentor, mentor, super mentor ou de certificat. 
 - Formations complémentaires certifiées pour les mentors.
 
+
+### 4.2. Identifier et Cibler les Profils de Mentors
+
+Les mentors potentiels peuvent être :
+
+- Des anciens élèves qui ont terminé la formation avec succès.
+
+- Des professionnels en entreprise qui veulent partager leur expertise.
+
+- Des freelances et indépendants cherchant à élargir leur réseau.
+
+- Des enseignants ou formateurs ayant déjà une approche pédagogique.
 
