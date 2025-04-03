@@ -54,18 +54,34 @@ Un programme de mentorat est un **dispositif structuré** où des personnes exp�
 
 ## 4. Comment Promouvroir la plateforme SainMentor:
 
-### 4.1 Exploiter les Canaux de Communication
+###  Exploiter les Canaux de Communication
 
 Pour toucher un large public, il est essentiel d'utiliser plusieurs canaux de communication :
  
 **Communication Interne (au sein de Simplon)** 
 
 - Présenter SainMentor dans les sessions de formation (lors de l’accueil des nouveaux apprenants).
-- Publier des annonces sur Slack, Discord, ou tout autre outil interne utilisé par Simplon.
+- Publier des annonces sur Discord, ou tout autre outil interne utilisé par Simplon.
 - Inciter les anciens élèves à revenir en tant que mentors (campagne emailing).
 - Organiser un événement de lancement en ligne ou en présentiel pour promouvoir la plateforme.
 
+**Réseaux Sociaux et Plateformes en Ligne**
 
+- LinkedIn : Publier des témoignages de mentors et mentorés, partager des articles sur les avantages du mentorat.
+- Twitter (X) & Facebook : Poster régulièrement des contenus engageants et des appels à mentors.
+- Instagram & TikTok : Créer des vidéos courtes expliquant l’utilité de SainMentor.
+- GitHub : Proposer aux développeurs expérimentés de s’impliquer.
+
+**Événements et Conférences**
+
+- Organiser des webinaires avec des mentors expérimentés.
+- Intervenir dans des meetups tech et des événements.
+- Participer à des hackathons et promouvoir la plateforme auprès des participants.
+
+**Campagnes Emailing & Partenariats**
+
+- Envoyer une newsletter aux anciens apprenants et aux professionnels du réseau Simplon.
+- S’associer avec des entreprises tech et startups qui souhaitent encourager le mentorat.
 
 
 ## 5. Comment attirer des mentor pour notre programme ?
