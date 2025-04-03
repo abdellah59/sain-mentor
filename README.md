@@ -1,4 +1,4 @@
-# sain-mentor : Programme de Mentorat Simplon
+# sain-Mentor : Programme de Mentorat Simplon
 
 
 ## Création d’un linkedin de simplon : SainMentor
@@ -54,9 +54,20 @@ Les mentors potentiels peuvent être :
 
 - Des anciens élèves qui ont terminé la formation avec succès.
 
-- Des professionnels en entreprise qui veulent partager leur expertise.
+- Des professionnels en entreprise qui veulent partager leur expertise et transmettre leurs savoir-faire.
 
 - Des freelances et indépendants cherchant à élargir leur réseau.
 
 - Des enseignants ou formateurs ayant déjà une approche pédagogique.
 
+### 4.3. Fidéliser et Motiver les Mentors
+
+Une fois recrutés, il faut les garder motivés et engagés :
+
+- Offrir des retours positifs (remerciements, témoignages des mentorés).
+
+- Organiser des événements exclusifs (meetups, networking entre mentors).
+
+- Créer une communauté interne.
+
+- Valoriser leur engagement (badges, recommandations LinkedIn, mise en avant sur le site).
